@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sushil-kumr
+- 👋 Hi, I’m Sushil Kumar(@sushil-kumr)
 - 👀 I’m interested in development in any language.
 - 🌱 I’m currently mastering in javascript
 - 💞️ I’m looking to collaborate on anything which will be challanging to do.
